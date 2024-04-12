@@ -14,7 +14,7 @@ Welcome to my LaTeX Cheat Sheet Template repository!
    ```
    git clone https://github.com/Lexxn0x3/LaTex-CheatSheet-Template.git
    ```
-3. **Modify the Template**: Open the `Main.tex` file in your favorite LaTeX editor here you can include content files. Content example you will find in the Content/ directory. Start customizing the template with your own content.
+3. **Modify the Template**: Open the `Main.tex` file in your favorite LaTeX editor here you can include content files. Content example you will find in the `Content/` directory. Start customizing the template with your own content.
 4. **Compile**: Use your LaTeX environment to compile the `.tex` file into a PDF. This step might vary depending on your LaTeX setup and editor.
 
 ## Examples 📚
